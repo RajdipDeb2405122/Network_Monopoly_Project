@@ -248,6 +248,7 @@ public class FirstPage extends Main implements Initializable {
     void MouseEnteredOnAbout(MouseEvent event) {
         player = new PlayNewMedia("/sound/hover_new.mp3");
         player.run();
+
     }
 
 
