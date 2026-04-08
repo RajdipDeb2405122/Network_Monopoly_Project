@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="392b379b-1720-4e57-a9ca-9f9f547917a0" name="Changes" comment="Last Commit">
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms_for_the_game/Generat_Dice_number_both.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FXML_Controllers/Chance_page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FXML_Controllers/FirstPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FXML_Controllers/PoPupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FXML_Controllers/SecondPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FXML_Controllers/Settings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MediaClass/PlayNewMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/ClientNetworkManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/GamePacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/MonopolyServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rules_Of_The_game/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rules_Of_The_game/PlayerArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Transitions/ChangeDiceNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Transitions/DiceTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Transitions/DominoTransitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Transitions/ITransitionStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/FXML_files/Chance_page.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/FXML_files/FirstPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/FXML_files/PoPupPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/FXML_files/SecondPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/FXML_files/Settings.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Background1Login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Background2Login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Background3Login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Body Png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Button Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Dice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Dice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Dice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Dice4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Dice5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Dice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Header Png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/New Button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Offer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_B.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_G.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Owned_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_B.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_G.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Player_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/amount.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/back_SecondPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/bat number of players 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/chance_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/dollar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/exit png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/number of players 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/quit_SecondPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/separatedBar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/start2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/test7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/triangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Background.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Buy.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Chance_audio.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Dice Rolling.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Domino Jumping.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Domino Jumping1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Domino Jumping2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Failed.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Popup_SecondPage.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Select number of players.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/Yes Buy.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/click.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/clicked start.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/hover_new.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/quit exited.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/start entred.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/wind movement 1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/wind movement 2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/wind movement 3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sound/wind movement 4.mp3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demof" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RajdipDeb2405122"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RajdipDeb2405122/Network_Monopoly_Project.git",
+    "accountId": "3538c8c7-7261-4e20-9aba-efb1be4691dc"
+  }
+}]]></component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\LENOVO\.gradle\wrapper\dists\gradle-8.13-bin\5xuhj0ry160q40clulazy9h7d\gradle-8.13" javaHome="C:\Program Files\Java\jdk-21.0.9" gradleVersion="8.13" />
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="39sFlKev0irlL2IvsBpPNrcbHhp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Run Main.executor": "Run",
+    "Gradle.Build demof.executor": "Run",
+    "Gradle.demof [:FXML_Controllers.Chance_page.main()].executor": "Run",
+    "Gradle.demof [:FXML_Controllers.FirstPage.main()].executor": "Run",
+    "Gradle.demof [:FXML_Controllers.PoPupPage.main()].executor": "Run",
+    "Gradle.demof [:application.Main.main()].executor": "Run",
+    "Gradle.demof [:com.example.demof.Launcher.main()].executor": "Run",
+    "Gradle.demof [clean].executor": "Run",
+    "Gradle.demof [run].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Desktop/Last/demof/demof/demof",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\OneDrive\Desktop\Last\demof\demof\demof\src\main\resources\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\demof\src\main\resources\FXML_files" />
+      <recent name="C:\Users\LENOVO\Desktop\demof\src\main\resources" />
+      <recent name="C:\Users\LENOVO\Desktop\demof\src\main\java" />
+      <recent name="C:\Users\LENOVO\Desktop\demof\src\main" />
+      <recent name="C:\Users\LENOVO\Desktop\demof\src\application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.demof [run]">
+    <configuration name="Run Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Program Files/Java/jdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="demof.main" />
+      <option name="VM_PARAMETERS" value="--add-opens=java.base/java.lang=com.jfoenix --add-opens=java.base/java.lang.reflect=com.jfoenix --add-opens=javafx.graphics/com.sun.javafx.scene=com.jfoenix --add-opens=javafx.graphics/com.sun.javafx.scene.traversal=com.jfoenix --add-opens=javafx.controls/com.sun.javafx.scene.control.behavior=com.jfoenix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demof [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="demof [run]" type="GradleRunConfiguration" factoryName="Gradle" singleton="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run Main" />
+      <item itemvalue="Gradle.demof [clean]" />
+      <item itemvalue="Gradle.demof [run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.demof [run]" />
+        <item itemvalue="Gradle.demof [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="392b379b-1720-4e57-a9ca-9f9f547917a0" name="Changes" comment="" />
+      <created>1771477021909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771477021909</updated>
+      <workItem from="1771477026077" duration="1562000" />
+      <workItem from="1771479893152" duration="15745000" />
+      <workItem from="1771505866057" duration="18839000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1775672867791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775672867791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Last Commit">
+      <option name="closed" value="true" />
+      <created>1775673837371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775673837371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Last Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
